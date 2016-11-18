@@ -1,0 +1,45 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) R5 Graphics (ID=0x9851)
+    Vendor:   ATI
+    VRAM:     752 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\GTadeon\Desktop\tedy_PC\tedy_PC_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\GTadeon\Desktop\tedy_PC\tedy_PC_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\GTadeon\Desktop\tedy_PC\tedy_PC_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\GTadeon\Desktop\tedy_PC\tedy_PC_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\GTadeon\Desktop\tedy_PC\tedy_PC_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\GTadeon\Desktop\tedy_PC\tedy_PC_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\GTadeon\Desktop\tedy_PC\tedy_PC_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\GTadeon\Desktop\tedy_PC\tedy_PC_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.152 seconds
+Platform assembly: C:\Users\GTadeon\Desktop\tedy_PC\tedy_PC_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\GTadeon\Desktop\tedy_PC\tedy_PC_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on FadeInOut
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.694585 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.999261 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 2.509406 ms (FindLiveObjects: 0.142603 ms CreateObjectMapping: 0.045140 ms MarkObjects: 1.108509 ms  DeleteObjects: 1.197764 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.420974 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 491.
+Total: 0.917174 ms (FindLiveObjects: 0.131831 ms CreateObjectMapping: 0.037446 ms MarkObjects: 0.728404 ms  DeleteObjects: 0.016414 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1c50 -> priority: 1 
